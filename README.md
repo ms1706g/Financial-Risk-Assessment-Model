@@ -47,6 +47,9 @@ The output is Low Risk, Moderate Risk, or Elevated Risk. It is not an official c
 
 Weighted score = Profitability x 15% + Liquidity x 20% + Leverage x 25% + Debt Service x 25% + Cash Flow x 15%. The workbook includes a visible check that total risk weights equal 100%.
 
+<img width="1512" height="1124" alt="Assumptions" src="https://github.com/user-attachments/assets/6ed6b026-ee2a-4e96-8916-903dc72714db" />
+
+
 ## Scenario Analysis
 
 Base Case keeps growth and margins resilient. Downside Case reduces revenue growth and margins while increasing debt and the cash-interest proxy. Stress Case applies a sharper revenue decline, lower EBITDA margin, higher debt, higher capex intensity, weaker OCF margin, and lower current ratio.
